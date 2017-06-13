@@ -1,0 +1,25 @@
+{
+  "devMode": true,
+  "uses": {
+    "assemble"        : "COMMENT: 静的サイト構築用モジュール",
+    "assemble"        : false,
+    "assemble_i18n"   : "COMMENT: 静的サイト構築用モジュール（多言語対応版）",
+    "assemble_i18n"   : true,
+    "browserify"      : "COMMENT: --",
+    "browserify"      : true,
+    "compress"        : "COMMENT: css, jsをgzip化するモジュールします",
+    "compress"        : true,
+    "imagemin"        : "COMMENT: src内のimgを圧縮します。jpg, png, gif, svgに対応",
+    "imagemin"        : true,
+    "sass"            : "COMMENT: --",
+    "sass"            : true,
+    "sass_globbing"   : "COMMENT: scssをフォルダ単位でグルーピングします",
+    "sass_globbing"   : true,
+    "spread2json"     : "COMMENT: スプレッドシートをjson形式でダウンロードします",
+    "spread2json"     : true,
+    "serve"           : "COMMENT: --",
+    "serve"           : true,
+    "sprite_smith"    : "COMMENT: --",
+    "sprite_smith"    : true
+  }
+}

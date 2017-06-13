@@ -1,0 +1,8 @@
+.vagrant
+*.DS_Store
+
+npm-debug.log
+development.retry
+src/node_modules/*
+
+client_secret*.json
